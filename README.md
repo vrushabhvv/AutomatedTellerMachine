@@ -56,7 +56,7 @@ git clone https://github.com/vrushabhvv/AutomatedTellerMachine.git
 4.Open a web browser and visit http://localhost:8080 to access the ATM Online Banking application.
 
 
-## Usage
+##Usage
 1.Register a new account by providing the necessary details, including account number and password.
 2.Explore the different features of the application, such as checking account balances, making deposits by providing cheque number and withdrawals, transferring funds,changing the pin and viewing transaction history.
 3.user can change the password if he forgot password.
@@ -68,8 +68,14 @@ git clone https://github.com/vrushabhvv/AutomatedTellerMachine.git
     2.Commit your changes with descriptive commit messages.
     3.Submit a pull request, explaining the changes you've made and their purpose.
 
+
 ## Contact
-For any questions, suggestions, or feedback, please feel free to contact:
-Email: vrushabhmurale1234@gmail.com
-GitHub: https://github.com/vrushabhvv
+
+For any questions, suggestions, or feedback, please feel free to contact us:
+
+- Email: [vrushabhmurale1234@gmail.com](mailto:vrushabhmurale1234@gmail.com)
+- GitHub: [https://github.com/vrushabhvv](https://github.com/vrushabhvv)
+
+
+
 
